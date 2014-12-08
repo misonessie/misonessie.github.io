@@ -6,4 +6,6 @@
   color: #225C20;
   font-size: 12px;
 }
-
+body {
+  background:url(/static/img/swirl_pattern.png)
+}
